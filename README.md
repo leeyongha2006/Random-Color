@@ -2,7 +2,7 @@
 Javascript를 사용해 랜덤 컬러 프로그램 만들기
 
 ![image](https://github.com/leeyongha2006/Random-Color/assets/126844590/f344730f-cb3d-4dbf-b649-8a39c15459eb)
-### 박스를 클릭했을 때 랜덤 색으로 바뀌는 프로그램이다
+### 박스를 클릭하면 해당 색이 클립보드에 복사되고 새로고침 박스를 누르면 랜덤 색들로 변하는 프로그램이다
 
 ## js
 ```javascript
